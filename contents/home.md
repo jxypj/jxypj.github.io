@@ -1,16 +1,13 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![jxypj](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/jxypj)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+He started learning traditional Chinese medicine in his sophomore year of university and continued his studies until his graduate school, during which he had been studying intermittently for about three years.
 #### Email
-sli[at]cumt.edu.cn
+826075406@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Financial Management, Xi'an Aeronautical Institute, 2020—2024.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### Learning Interests
+Ni Haixia's "Tianji" and "Renji",Huang Yuanyu's "Four Sacred Hearts" ,Chen Shiduo's "New Compilation of Materia Medica".
